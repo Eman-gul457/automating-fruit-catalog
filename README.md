@@ -199,7 +199,16 @@ This project simulates real production automation used in e-commerce and DevOps 
 📚 Credits
 ---
 This project was completed as part of a Google IT Automation with Python lab.
+This project was executed in a controlled lab environment (Qwiklabs VM).
 All automation scripts were written and executed by me.
 Screenshots are included as proof of work.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Automation](https://img.shields.io/badge/Automation-Python-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+----
 
 ---
